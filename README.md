@@ -16,3 +16,5 @@ on run {input, parameters}
 	return input
 end run
 ```
+
+<img width="609" alt="Automator count words and characters" src="https://user-images.githubusercontent.com/50701/200184849-0125f9b4-9c62-4b49-b793-be88aa397448.png">
